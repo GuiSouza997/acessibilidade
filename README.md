@@ -2,7 +2,8 @@
 <p>Este repositório foi criado com foco para utilizar recursos de acessibilidade do usuário na web</p>
 
 #Tags do HTML 5
-
+ - HTML utilizei lang="pt-br", que indica que a linguagem de origem é Português(Brasil)
+ - Meta utilizei "UTF-8"
  - NAV
  - HEADER
  - ARTICLE
